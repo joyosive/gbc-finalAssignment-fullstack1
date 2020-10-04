@@ -13,7 +13,7 @@ Enrollment Number - **101290765**
 ## Output
  
 ```
-![picture](assets/img/output.png)
+![Output](/assets/img/output.png)
 ```
 
 ## Technology stack / tools used 
