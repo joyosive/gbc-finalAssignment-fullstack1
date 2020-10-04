@@ -12,9 +12,8 @@ Enrollment Number - **101290765**
 
 ## Output
  
-```
 ![Output](https://github.com/joyosive/gbc-finalAssignment-fullstack1/blob/master/assets/img/output.png)
-```
+
 
 ## Technology stack / tools used 
 
